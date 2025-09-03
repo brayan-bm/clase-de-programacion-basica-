@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+271
+'una escuela deportiva organiza un torneo de futbol y requiere un programa que solicite el nombre del equipo, el numero de partidos ganados, perdidos y empatados cada partido ganado obtendra 3 puntos, por partido empatado obtendra 1 punto y por partido perdido 0 puntos' 
+4
+1
+43
+' por favor ingrese el nombre del equipo ' 
+5
+1
+1
+a
+4
+1
+51
+' Por favor ingrese el numero de partidos ganados '
+5
+1
+1
+b
+4
+1
+52
+' Por favor ingrese el numero de partidos empatados'
+5
+1
+1
+c
+4
+1
+51
+'Por favor ingrese el numero de partidos perdidos '
+5
+1
+1
+d
+6
+1
+1
+f
+11
+b*3+c*1+d*0
+4
+1
+55
+'el equipo ' ,a , ' obtuvo un total de ',f , ' puntos '
+1
